@@ -1,0 +1,3 @@
+# Pré-Conselho Pedagógico — nenhuma página deve ser indexada
+User-agent: *
+Disallow: /
